@@ -291,13 +291,11 @@ build/
 
 # 文档文件（除了README.md）
 *.md
-!AGENTS.md
 !README.md
 !CHANGELOG.md
 !CONTRIBUTING.md
 !SECURITY.md
 !LICENSE.md
-!docs/*.md
 
 # 临时配置文件
 *.local.yml
